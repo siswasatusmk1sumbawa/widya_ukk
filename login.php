@@ -55,6 +55,6 @@
 
 
 
-<script>"text/javascript"  src="assets/css/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
 </body>
 </html>
