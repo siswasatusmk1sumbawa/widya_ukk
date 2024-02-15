@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport"  content="width=device-width, initial-scale=1">
   <title>Website Galeri Foto</title>
-  <ink rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+  <ink rel="stylesheet" type="text/css" href="../assets/css/bootstrap.min.css">
 </head>
 <body>
   
@@ -43,8 +43,6 @@
 <p>&copy; UKK RPL | Widya fitri</p>
 </footer>
 
-
-
-<script>"text/javascript"  src="assets/css/bootstrap.min.js"></script>
+<script>"text/javascript" src="../assets/js/bootstrap.min.js"></script>
 </body>
 </html>
